@@ -1,0 +1,19 @@
+{
+    "name": "timestamp-express",
+    "version": "1.0.0",
+    "description": "TimeStamp microservice to parsing date strings into UTC time and unix time",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [
+        "timestamp",
+        "microservice"
+    ],
+    "author": "iliyas",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.16.4"
+    }
+}
